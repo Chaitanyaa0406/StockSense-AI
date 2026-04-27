@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/StockSense-AI/static/css/main.f7f19158.css",
-    "main.js": "/StockSense-AI/static/js/main.b2037ca6.js",
+    "main.js": "/StockSense-AI/static/js/main.9dda8cba.js",
     "static/js/453.825386d9.chunk.js": "/StockSense-AI/static/js/453.825386d9.chunk.js",
     "index.html": "/StockSense-AI/index.html",
     "main.f7f19158.css.map": "/StockSense-AI/static/css/main.f7f19158.css.map",
-    "main.b2037ca6.js.map": "/StockSense-AI/static/js/main.b2037ca6.js.map",
+    "main.9dda8cba.js.map": "/StockSense-AI/static/js/main.9dda8cba.js.map",
     "453.825386d9.chunk.js.map": "/StockSense-AI/static/js/453.825386d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7f19158.css",
-    "static/js/main.b2037ca6.js"
+    "static/js/main.9dda8cba.js"
   ]
 }
